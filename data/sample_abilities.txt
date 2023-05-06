@@ -1,0 +1,42 @@
+AE? (1=Y) 	Spell 	Cast 	Reuse 	Min 	Max 	Dot min 	Dot max 	additional multiplier 	Duration 	s/tick 	tick/s 	Requirements
+ 	Exploit Weakness 	0.25 	6 	4142113 	6363636 	0	0	0	0	0	0	 Weakness
+ 	Dagger Storm 	0.25 	15 	702820 	774482 	702820 	774482 	0	11 	1 	1	 None
+ 	Nightblade 	0 	5 	872528 	1215306 	194533 	361275 	0	2 	1 	1	 Flanking
+ 	Ambush 	0.25 	5 	771232 	1000310 	495241 	724320 	15.00% 	1 	1 	1	 Stealth
+ 	Ambush+Masked 	0.75 	5 	1382585 	1766787 	830603 	1214807 	0	0	0	0	 Flanking & Stealth
+1 	AcidMist 	0 	5 	389066 	722550 	389066 	722550 	0	1 	1 	1	 Nightblade + Stealth Attack Counters
+ 	Bleedout 	0.25 	15 	805002 	1087056 	43644 	72740 	0	24 	1 	1	 None
+ 	BloodflurryMax 	0.25 	10 	567498 	735002 	291508 	459012 	0	4 	1 	1	 Bleed Stacks
+ 	DeathMark 	0.125 	15 	322722 	472000 	322722 	472000 	0	7 	1 	1	 None
+ 	Masked Strike 	0.25 	5 	611353 	766477 	335362 	490487 	0	1 	1 	1	 Flanking
+ 	Noxious Enfeeble 	0.25 	15 	542980 	638529 	185918 	278877 	0	30 	6 	0.1666666667	 None
+ 	Quick Strike 	0.25 	5 	356743 	498536 	29687 	29687 	7.5% 	12 	2.4 	0.4166666667	 None
+ 	Shadow Step New 	0.25 	30 	3255505 	5006795 	0	0	0	0	0	0	 None
+ 	Fatal Combination 	0 	20 	1128127 	3202388 	0	0	0	0	0	0	 Ranged + Melee
+ 	Shadow Step 	0.25 	30 	2786183 	4228571 	0	0	0	0	0	0	 None
+ 	Impale 	0.25 	10 	381193 	551190 	35018 	58364 	0	14 	2.3 	0.4347826087	 None
+ 	Deathblow<33 	0.25 	22.5 	1906793 	2788797 	0	0	0	0	0	0	 Enemy_Health <= 33%
+1 	Stealth Assault 	0.5 	15 	555293 	727929 	77906 	77906 	15.00% 	12 	2 	0.5	 Stealth
+ 	Levinbolt 	2.5 	150 	6259819 	12693008 	0	0	0	0	0	0	 None
+ 	Eviscerate 	0.25 	30 	1280866 	1745680 	1004876 	1469690 	0	1 	1 	1	 Stealth + Flanking
+ 	Assassinate 	0.25 	150 	5508453 	7928774 	5232463 	7652784 	0	1 	1 	1	 Stealth
+ 	Evade 	0.125 	10 	799478 	977140 	0	0	0	0	0	0	 None
+ 	Gushing wound 	0.25 	15 	391313 	619495 	43483 	72472 	0	24 	4 	0.25	 None
+ 	Jugular Slice 	0.25 	30 	1032059 	1381786 	756069 	1105796 	0	1 	1 	1	 Stealth
+ 	Bloodflurry0 	0.25 	10 	567498 	735002 	0	0	1.00% 	0	0	0	 Bleed Stacks
+ 	Improvised Weap 	0.5 	10 	531865 	777884 	0	0	0	0	0	0	 None
+ 	Deadly Shot 	0.5 	10 	361186 	503982 	172261 	251991 	0	1 	1 	1	 None
+ 	Touch Nightshade 	0.25 	22.5 	1046848 	1372105 	0	0	0	0	0	0	 Flanking
+ 	Deathblow>33 	0.25 	22.5 	911588 	1205589 	0	0	0	0	0	0	 Flanking + Enemy_Health > 33%
+1 	Etherflash 	3.1 	210 	3978270 	8159844 	0	0	0	0	0	0	 None
+ 	Head Shot 	1 	30 	1155637 	1562776 	0	0	0	0	0	0	 Stealth
+ 	Spine Shot 	0.75 	30 	1080137 	1452331 	0	0	0	0	0	0	 Flanking
+ 	Paralyzing Strike 	0.25 	30 	910181 	1203531 	0	0	0	0	0	0	 None
+ 	Crippling Strike 	0.25 	30 	906349 	1197927 	0	0	0	0	0	0	 Rear
+1 	Massacre 	0.75 	30 	796285 	1122060 	0	0	15.00% 	0	0	0	 Stealth + Cone
+ 	Mortal Blade 	0.25 	90 	2190040 	3075400 	0	0	0	0	0	0	 Stealth
+ 	evasive maneuvers 	0.25 	30 	746599 	964815 	0	0	0	0	0	0	 None
+1 	Smoke Bomb 	0.25 	90 	1064172 	1897465 	0	0	0	0	0	0	 None
+ 	Bladed Opening 	0.25 	22.5 	322514 	487482 	0	0	0	0	0	0	 None
+ 	DeathMark Heal 	0.125 	15 	24322 	29726 	24322 	29726 	0	7 	1 	1	 None
+1 	Spinning Spear 	0.5 	22.5 	149115 	218090 	0	0	0	0	0	None
